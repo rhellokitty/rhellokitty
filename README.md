@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I build scalable web products with a strong focus on practical execution, clean architecture, and business-driven outcomes.
+  I build web products with a focus on clean execution, maintainable systems, and practical business value.
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 
 ## About Me
 
-- Full Stack Developer and SaaS Builder focused on building maintainable products from idea to deployment.
-- Main stack includes Laravel, PHP, Vue.js, Nuxt, Pinia, Tailwind CSS, MySQL, and REST API development.
-- Comfortable working with Git, GitHub, Docker, Linux, Nginx, Netlify, and Railway for modern delivery workflows.
-- Cybersecurity fundamentals support my development approach, especially around system awareness, safer deployment practices, and controlled testing environments.
+- Full Stack Developer and SaaS Builder focused on turning ideas into maintainable digital products.
+- Primary stack includes Laravel, PHP, Vue.js, Nuxt, Pinia, Tailwind CSS, MySQL, and REST API development.
+- Comfortable across development, deployment, and infrastructure workflows with Git, GitHub, Docker, Linux, Nginx, Netlify, and Railway.
+- Cybersecurity fundamentals support how I think about system awareness, safer deployment practices, and controlled environments.
 
 ## Tech Stack
 
@@ -51,47 +51,13 @@
 
 ## Currently Building
 
-- SaaS products that prioritize reliability, usability, and efficient delivery.
-- Full stack web applications with Laravel, Vue.js, and modern deployment workflows.
-- Internal tools and product foundations that can scale with real business needs.
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>PROJECT_NAME</h3>
-      <p>PROJECT_DESCRIPTION</p>
-      <p><strong>Tech:</strong> PROJECT_TECH_STACK</p>
-      <p>
-        <a href="PROJECT_REPOSITORY_URL">Repository</a><br />
-        <a href="PROJECT_LIVE_DEMO_URL">Live Demo</a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3>PROJECT_NAME</h3>
-      <p>PROJECT_DESCRIPTION</p>
-      <p><strong>Tech:</strong> PROJECT_TECH_STACK</p>
-      <p>
-        <a href="PROJECT_REPOSITORY_URL">Repository</a><br />
-        <a href="PROJECT_LIVE_DEMO_URL">Live Demo</a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3>PROJECT_NAME</h3>
-      <p>PROJECT_DESCRIPTION</p>
-      <p><strong>Tech:</strong> PROJECT_TECH_STACK</p>
-      <p>
-        <a href="PROJECT_REPOSITORY_URL">Repository</a><br />
-        <a href="PROJECT_LIVE_DEMO_URL">Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+- SaaS products designed for reliability, clarity, and sustainable growth.
+- Full stack applications built with Laravel, Vue.js, and structured delivery workflows.
+- Product foundations and internal tools that support real operational needs.
 
 ## Cybersecurity Fundamentals
 
-Cybersecurity is a supporting skill in my workflow. I am familiar with Kali Linux, network security, wireless security, vulnerability assessment, and network monitoring, with experience using cybersecurity tools in controlled and authorized environments. This perspective helps me build and deploy applications with better operational awareness and safer practices.
+Cybersecurity is a supporting skill in my workflow. I am familiar with Kali Linux, network security, wireless security, vulnerability assessment, and network monitoring, with experience using cybersecurity tools in controlled and authorized environments. It strengthens how I approach application reliability, operational awareness, and safer deployment practices.
 
 ## GitHub Statistics
 

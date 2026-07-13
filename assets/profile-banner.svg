@@ -1,53 +1,74 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Raja Daffa Profile Banner</title>
-  <desc id="desc">Modern professional banner in navy, blue, and teal with the name Muhammad Raja Daffa and subtitle Full Stack Developer, SaaS Builder, Cybersecurity Enthusiast.</desc>
+  <desc id="desc">Premium glass-inspired banner in navy, blue, cyan, and teal with the name Muhammad Raja Daffa and the subtitle Full Stack Developer, SaaS Builder, Cybersecurity Enthusiast.</desc>
   <defs>
-    <linearGradient id="bg" x1="80" y1="40" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#081224"/>
-      <stop offset="0.52" stop-color="#0F2D52"/>
-      <stop offset="1" stop-color="#0C6E74"/>
+    <linearGradient id="bg" x1="82" y1="28" x2="1182" y2="334" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07101F"/>
+      <stop offset="0.48" stop-color="#0B2243"/>
+      <stop offset="1" stop-color="#0C4F5C"/>
     </linearGradient>
-    <linearGradient id="accent" x1="220" y1="70" x2="930" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.38"/>
-      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.18"/>
+    <linearGradient id="panel" x1="114" y1="72" x2="786" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.06"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 72) rotate(138.925) scale(356.505 232.875)">
-      <stop stop-color="#38BDF8" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    <linearGradient id="panelStroke" x1="146" y1="74" x2="1080" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8BE9FF" stop-opacity="0.14"/>
+    </linearGradient>
+    <linearGradient id="tagFill" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="white" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.06"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1032 94) rotate(131.982) scale(360.11 233.933)">
+      <stop stop-color="#60A5FA" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 322) rotate(-25.0169) scale(408.807 220.44)">
-      <stop stop-color="#14B8A6" stop-opacity="0.26"/>
-      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 286) rotate(-176.669) scale(512.871 189.488)">
+      <stop stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(234 72) rotate(38.7717) scale(270.898 185.871)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1280" height="360" rx="28" fill="url(#accent)"/>
-  <rect x="64" y="52" width="1152" height="256" rx="24" fill="white" fill-opacity="0.03" stroke="white" stroke-opacity="0.08"/>
+  <circle cx="1044" cy="102" r="176" fill="url(#glowA)"/>
+  <circle cx="974" cy="292" r="238" fill="url(#glowB)"/>
+  <circle cx="252" cy="86" r="146" fill="url(#glowC)"/>
 
-  <circle cx="1060" cy="88" r="160" fill="url(#glowA)"/>
-  <circle cx="244" cy="310" r="190" fill="url(#glowB)"/>
+  <rect x="62" y="50" width="1156" height="260" rx="30" fill="white" fill-opacity="0.03"/>
+  <rect x="62.5" y="50.5" width="1155" height="259" rx="29.5" stroke="white" stroke-opacity="0.08"/>
 
-  <path d="M836 54C922 88 1010 138 1138 148" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
-  <path d="M858 98C952 122 1020 178 1160 188" stroke="white" stroke-opacity="0.06" stroke-width="2"/>
-  <path d="M850 142C972 164 1058 216 1180 230" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
+  <rect x="92" y="72" width="744" height="214" rx="28" fill="url(#panel)"/>
+  <rect x="92.75" y="72.75" width="742.5" height="212.5" rx="27.25" stroke="url(#panelStroke)"/>
 
-  <rect x="92" y="86" width="88" height="10" rx="5" fill="#2DD4BF" fill-opacity="0.95"/>
-  <text x="92" y="162" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.2">
+  <path d="M890 82C994 96 1082 144 1172 202" stroke="white" stroke-opacity="0.1" stroke-width="2"/>
+  <path d="M864 126C950 140 1044 182 1140 254" stroke="white" stroke-opacity="0.07" stroke-width="2"/>
+  <path d="M852 170C928 180 1018 216 1106 286" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
+
+  <path d="M124 104H278" stroke="#7DD3FC" stroke-opacity="0.9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M124 104H222" stroke="white" stroke-opacity="0.85" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="124" y="168" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.2">
     Muhammad Raja Daffa
   </text>
-  <text x="92" y="208" fill="#D5E7F7" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">
+  <text x="124" y="212" fill="#D7F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">
     Full Stack Developer · SaaS Builder · Cybersecurity Enthusiast
   </text>
 
-  <g opacity="0.9">
-    <rect x="94" y="244" width="164" height="34" rx="17" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
-    <text x="126" y="266" fill="#E6F4FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Laravel</text>
+  <g opacity="0.96">
+    <rect x="124" y="236" width="154" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="124.5" y="236.5" width="153" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
+    <text x="156" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Laravel</text>
 
-    <rect x="272" y="244" width="136" height="34" rx="17" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
-    <text x="306" y="266" fill="#E6F4FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vue.js</text>
+    <rect x="292" y="236" width="132" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="292.5" y="236.5" width="131" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
+    <text x="325" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vue.js</text>
 
-    <rect x="422" y="244" width="148" height="34" rx="17" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.12"/>
-    <text x="454" y="266" fill="#E6F4FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">SaaS</text>
+    <rect x="438" y="236" width="132" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="438.5" y="236.5" width="131" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
+    <text x="475" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">SaaS</text>
   </g>
 </svg>
