@@ -75,7 +75,11 @@ Cybersecurity is a supporting skill in my workflow. I am familiar with Kali Linu
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" alt="Pacman-style contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" alt="Pacman-style contribution graph" width="100%" />
+  </picture>
 </p>
 
 ## Connect With Me
