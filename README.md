@@ -2,7 +2,7 @@
 
 <h1 align="center">Muhammad Raja Daffa</h1>
 <p align="center">
-  <strong>Rza</strong><br />
+  <!-- <strong>Rza</strong><br /> -->
   Full Stack Developer, SaaS Builder, Entrepreneur
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+  <a href="https://github.com/rhellokitty">GitHub</a>
   ·
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
   ·
@@ -62,13 +62,25 @@ Cybersecurity is a supporting skill in my workflow. I am familiar with Kali Linu
 ## GitHub Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=0F766E&icon_color=2563EB&text_color=4B5563&bg_color=00000000" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=0F766E&text_color=4B5563&bg_color=00000000" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhellokitty&show_icons=true&hide_border=true&title_color=0F766E&icon_color=2563EB&text_color=4B5563&bg_color=00000000" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhellokitty&layout=compact&hide_border=true&title_color=0F766E&text_color=4B5563&bg_color=00000000" alt="Top languages" height="165" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=rhellokitty&hide_border=true&background=00000000&ring=22D3EE&fire=38BDF8&currStreakLabel=E6F7FF&sideLabels=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=64748B" alt="GitHub contribution streak" width="100%" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhellokitty&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" alt="Pacman-style contribution graph" width="100%" />
 </p>
 
 ## Connect With Me
 
-- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [rhellokitty](https://github.com/rhellokitty)
 - Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
 - LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
 - TikTok: [YOUR_TIKTOK_URL](YOUR_TIKTOK_URL)
