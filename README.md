@@ -46,14 +46,14 @@
 ### Minecraft Server Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft_Server_Administration-111827?style=for-the-badge&logo=minecraft&logoColor=62B47A" alt="Minecraft Server Administration" />
+  <img src="./assets/minecraft-server-badge.svg" alt="Minecraft Server Administration" />
   <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
-  <img src="https://img.shields.io/badge/Plugin_Configuration-111827?style=for-the-badge&logo=plugins&logoColor=8BE9FF" alt="Plugin Configuration" />
+  <img src="./assets/plugin-configuration-badge.svg" alt="Plugin Configuration" />
   <img src="https://img.shields.io/badge/Server_Customization-111827?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
   <img src="https://img.shields.io/badge/YAML-111827?style=for-the-badge&logo=yaml&logoColor=FF6B6B" alt="YAML" />
   <img src="https://img.shields.io/badge/Skript-111827?style=for-the-badge&logo=script&logoColor=67E8F9" alt="Skript" />
-  <img src="https://img.shields.io/badge/Spigot-111827?style=for-the-badge&logo=coffee&logoColor=F4A261" alt="Spigot" />
-  <img src="https://img.shields.io/badge/Paper-111827?style=for-the-badge&logo=paper&logoColor=FFFFFF" alt="Paper" />
+  <img src="https://img.shields.io/badge/Spigot-111827?style=for-the-badge&logo=spigotmc&logoColor=F4A261" alt="Spigot" />
+  <img src="./assets/papermc-badge.svg" alt="PaperMC" />
 </p>
 
 ## Currently Building
