@@ -1,17 +1,17 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Raja Daffa Profile Banner</title>
-  <desc id="desc">Premium glass-inspired banner in navy, blue, cyan, and teal with the name Muhammad Raja Daffa and the subtitle Full Stack Developer, SaaS Builder, Cybersecurity Enthusiast.</desc>
+  <desc id="desc">Premium glass-inspired static fallback banner in navy, blue, cyan, and teal with the name Muhammad Raja Daffa and the subtitle Full Stack Developer, SaaS Builder, Cybersecurity Enthusiast.</desc>
   <defs>
-    <linearGradient id="bg" x1="82" y1="28" x2="1182" y2="334" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="76" y1="24" x2="1110" y2="296" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#07101F"/>
       <stop offset="0.48" stop-color="#0B2243"/>
       <stop offset="1" stop-color="#0C4F5C"/>
     </linearGradient>
-    <linearGradient id="panel" x1="114" y1="72" x2="786" y2="292" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="104" y1="64" x2="744" y2="258" gradientUnits="userSpaceOnUse">
       <stop stop-color="white" stop-opacity="0.18"/>
       <stop offset="1" stop-color="white" stop-opacity="0.06"/>
     </linearGradient>
-    <linearGradient id="panelStroke" x1="146" y1="74" x2="1080" y2="296" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panelStroke" x1="132" y1="68" x2="1014" y2="272" gradientUnits="userSpaceOnUse">
       <stop stop-color="white" stop-opacity="0.32"/>
       <stop offset="1" stop-color="#8BE9FF" stop-opacity="0.14"/>
     </linearGradient>
@@ -19,56 +19,56 @@
       <stop stop-color="white" stop-opacity="0.16"/>
       <stop offset="1" stop-color="white" stop-opacity="0.06"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1032 94) rotate(131.982) scale(360.11 233.933)">
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(954 84) rotate(131.982) scale(324 210)">
       <stop stop-color="#60A5FA" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 286) rotate(-176.669) scale(512.871 189.488)">
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 260) rotate(-176.669) scale(440 168)">
       <stop stop-color="#22D3EE" stop-opacity="0.24"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(234 72) rotate(38.7717) scale(270.898 185.871)">
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 70) rotate(38.7717) scale(236 164)">
       <stop stop-color="#2DD4BF" stop-opacity="0.18"/>
       <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
-  <circle cx="1044" cy="102" r="176" fill="url(#glowA)"/>
-  <circle cx="974" cy="292" r="238" fill="url(#glowB)"/>
-  <circle cx="252" cy="86" r="146" fill="url(#glowC)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="972" cy="92" r="162" fill="url(#glowA)"/>
+  <circle cx="914" cy="262" r="212" fill="url(#glowB)"/>
+  <circle cx="236" cy="78" r="132" fill="url(#glowC)"/>
 
-  <rect x="62" y="50" width="1156" height="260" rx="30" fill="white" fill-opacity="0.03"/>
-  <rect x="62.5" y="50.5" width="1155" height="259" rx="29.5" stroke="white" stroke-opacity="0.08"/>
+  <rect x="54" y="42" width="1092" height="236" rx="28" fill="white" fill-opacity="0.03"/>
+  <rect x="54.5" y="42.5" width="1091" height="235" rx="27.5" stroke="white" stroke-opacity="0.08"/>
 
-  <rect x="92" y="72" width="744" height="214" rx="28" fill="url(#panel)"/>
-  <rect x="92.75" y="72.75" width="742.5" height="212.5" rx="27.25" stroke="url(#panelStroke)"/>
+  <rect x="86" y="60" width="702" height="192" rx="26" fill="url(#panel)"/>
+  <rect x="86.75" y="60.75" width="700.5" height="190.5" rx="25.25" stroke="url(#panelStroke)"/>
 
-  <path d="M890 82C994 96 1082 144 1172 202" stroke="white" stroke-opacity="0.1" stroke-width="2"/>
-  <path d="M864 126C950 140 1044 182 1140 254" stroke="white" stroke-opacity="0.07" stroke-width="2"/>
-  <path d="M852 170C928 180 1018 216 1106 286" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
+  <path d="M826 72C922 86 1002 130 1084 182" stroke="white" stroke-opacity="0.1" stroke-width="2"/>
+  <path d="M804 112C884 126 970 164 1058 230" stroke="white" stroke-opacity="0.07" stroke-width="2"/>
+  <path d="M794 150C866 160 948 194 1030 256" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
 
-  <path d="M124 104H278" stroke="#7DD3FC" stroke-opacity="0.9" stroke-width="8" stroke-linecap="round"/>
-  <path d="M124 104H222" stroke="white" stroke-opacity="0.85" stroke-width="2" stroke-linecap="round"/>
+  <path d="M116 92H262" stroke="#7DD3FC" stroke-opacity="0.9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M116 92H208" stroke="white" stroke-opacity="0.85" stroke-width="2" stroke-linecap="round"/>
 
-  <text x="124" y="168" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.2">
+  <text x="116" y="152" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="0.2">
     Muhammad Raja Daffa
   </text>
-  <text x="124" y="212" fill="#D7F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">
+  <text x="116" y="194" fill="#D7F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
     Full Stack Developer · SaaS Builder · Cybersecurity Enthusiast
   </text>
 
   <g opacity="0.96">
-    <rect x="124" y="236" width="154" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="124.5" y="236.5" width="153" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <text x="156" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Laravel</text>
+    <rect x="116" y="214" width="146" height="32" rx="16" fill="url(#tagFill)"/>
+    <rect x="116.5" y="214.5" width="145" height="31" rx="15.5" stroke="white" stroke-opacity="0.11"/>
+    <text x="146" y="235" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Laravel</text>
 
-    <rect x="292" y="236" width="132" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="292.5" y="236.5" width="131" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <text x="325" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vue.js</text>
+    <rect x="274" y="214" width="126" height="32" rx="16" fill="url(#tagFill)"/>
+    <rect x="274.5" y="214.5" width="125" height="31" rx="15.5" stroke="white" stroke-opacity="0.11"/>
+    <text x="306" y="235" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vue.js</text>
 
-    <rect x="438" y="236" width="132" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="438.5" y="236.5" width="131" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <text x="475" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">SaaS</text>
+    <rect x="412" y="214" width="126" height="32" rx="16" fill="url(#tagFill)"/>
+    <rect x="412.5" y="214.5" width="125" height="31" rx="15.5" stroke="white" stroke-opacity="0.11"/>
+    <text x="448" y="235" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">SaaS</text>
   </g>
 </svg>
