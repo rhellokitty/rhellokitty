@@ -1,13 +1,9 @@
 # <img src="./assets/profile-banner.svg" alt="Muhammad Raja Daffa banner" width="100%" />
 
-<h1 align="center">Muhammad Raja Daffa</h1>
+<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
   Full Stack Developer, SaaS Builder, Entrepreneur
-</p>
-
-<p align="center">
-  I build web products with a focus on clean execution, maintainable systems, and practical business value.
 </p>
 
 <p align="center">
@@ -22,17 +18,9 @@
   <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
-## About Me
-
-- Full Stack Developer and SaaS Builder focused on turning ideas into maintainable digital products.
-- Primary stack includes Laravel, PHP, Vue.js, Nuxt, Pinia, Tailwind CSS, MySQL, and REST API development.
-- Comfortable across development, deployment, and infrastructure workflows with Git, GitHub, Docker, Linux, Nginx, Netlify, and Railway.
-- Previously worked with Minecraft server scripting, plugin configuration, server customization, and community server management.
-- Cybersecurity fundamentals support how I think about system awareness, safer deployment practices, and controlled environments.
-
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -57,7 +45,7 @@
 
 ### Minecraft Server Development
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Minecraft_Server_Administration-111827?style=for-the-badge&logo=minecraft&logoColor=62B47A" alt="Minecraft Server Administration" />
   <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
   <img src="https://img.shields.io/badge/Plugin_Configuration-111827?style=for-the-badge&logo=plugins&logoColor=8BE9FF" alt="Plugin Configuration" />
