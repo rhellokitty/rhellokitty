@@ -7,13 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rhellokitty">GitHub</a>
-  ·
   <a href="https://rzadaffa.netlify.app">Portfolio</a>
   ·
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
   ·
-  <a href="www.tiktok.com/@rzadaffa_">TikTok</a>
+  <a href="https://www.tiktok.com/@rzadaffa_">TikTok</a>
   ·
   <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
 </p>
