@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
-  Full Stack Developer, SaaS Builder, Entrepreneur
+  Full Stack Developer | SaaS Builder | Cybersecurity Enthusiast | Minecraft Server Developer
 </p>
 
 <p align="center">
@@ -58,13 +58,13 @@
 
 ## Currently Building
 
-- SaaS products designed for reliability, clarity, and sustainable growth.
-- Full stack applications built with Laravel, Vue.js, and structured delivery workflows.
-- Product foundations and internal tools that support real operational needs.
+Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
 
 ## Cybersecurity Fundamentals
 
-Cybersecurity is a supporting skill in my workflow. I am familiar with Kali Linux, network security, wireless security, vulnerability assessment, and network monitoring, with experience using cybersecurity tools in controlled and authorized environments. It strengthens how I approach application reliability, operational awareness, and safer deployment practices.
+<p align="center">
+  🐉 Kali Linux | 🌐 Network Security | 📶 Wireless Security | 🔍 Vulnerability Assessment | 📡 Network Monitoring
+</p>
 
 ## GitHub Statistics
 
