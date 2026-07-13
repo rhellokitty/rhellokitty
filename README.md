@@ -63,7 +63,6 @@ Cybersecurity is a supporting skill in my workflow. I am familiar with Kali Linu
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=rhellokitty&show_icons=true&hide_border=true&title_color=0F766E&icon_color=2563EB&text_color=4B5563&bg_color=00000000" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhellokitty&layout=compact&hide_border=true&title_color=0F766E&text_color=4B5563&bg_color=00000000" alt="Top languages" height="165" />
 </p>
 
 <p>
