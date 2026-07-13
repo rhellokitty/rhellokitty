@@ -81,11 +81,3 @@ Building SaaS products, full stack applications, and internal tools with a focus
     <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" alt="Pacman-style contribution graph" width="100%" />
   </picture>
 </p>
-
-## Connect With Me
-
-- GitHub: [rhellokitty](https://github.com/rhellokitty)
-- Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
-- LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- TikTok: [YOUR_TIKTOK_URL](YOUR_TIKTOK_URL)
-- Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
