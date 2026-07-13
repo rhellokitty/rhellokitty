@@ -26,5 +26,4 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://rzadaffa.netlify.app/
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
