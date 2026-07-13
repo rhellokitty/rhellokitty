@@ -19,6 +19,14 @@
       <stop stop-color="white" stop-opacity="0.16"/>
       <stop offset="1" stop-color="white" stop-opacity="0.06"/>
     </linearGradient>
+    <linearGradient id="floatGlass" x1="918" y1="102" x2="1128" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="floatStroke" x1="904" y1="96" x2="1146" y2="246" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8BE9FF" stop-opacity="0.08"/>
+    </linearGradient>
     <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1032 94) rotate(131.982) scale(360.11 233.933)">
       <stop stop-color="#60A5FA" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
@@ -40,6 +48,13 @@
 
   <rect x="62" y="50" width="1156" height="260" rx="30" fill="white" fill-opacity="0.03"/>
   <rect x="62.5" y="50.5" width="1155" height="259" rx="29.5" stroke="white" stroke-opacity="0.08"/>
+  <rect x="950" y="98" width="166" height="92" rx="30" fill="url(#floatGlass)"/>
+  <rect x="950.5" y="98.5" width="165" height="91" rx="29.5" stroke="url(#floatStroke)"/>
+  <rect x="1020" y="206" width="96" height="44" rx="22" fill="white" fill-opacity="0.05"/>
+  <rect x="1020.5" y="206.5" width="95" height="43" rx="21.5" stroke="white" stroke-opacity="0.08"/>
+  <circle cx="1084" cy="132" r="36" fill="white" fill-opacity="0.04"/>
+  <path d="M1104 112C1124 124 1140 142 1154 164" stroke="white" stroke-opacity="0.12" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1076 218C1094 224 1108 234 1120 248" stroke="white" stroke-opacity="0.08" stroke-width="2" stroke-linecap="round"/>
 
   <rect x="92" y="72" width="744" height="214" rx="28" fill="url(#panel)"/>
   <rect x="92.75" y="72.75" width="742.5" height="212.5" rx="27.25" stroke="url(#panelStroke)"/>
@@ -59,16 +74,29 @@
   </text>
 
   <g opacity="0.96">
-    <rect x="124" y="236" width="154" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="124.5" y="236.5" width="153" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <text x="156" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Laravel</text>
+    <rect x="124" y="236" width="78" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="124.5" y="236.5" width="77" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
+    <g transform="translate(152 253)">
+      <path d="M0 -8L11 -14L22 -8V4L11 10L0 4V-8Z" fill="none" stroke="#FF6B5A" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M0 -8L11 -2L22 -8" fill="none" stroke="#FF6B5A" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M11 -2V10" stroke="#FF6B5A" stroke-width="2" stroke-linecap="round"/>
+    </g>
 
-    <rect x="292" y="236" width="132" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="292.5" y="236.5" width="131" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <text x="325" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Vue.js</text>
+    <rect x="222" y="236" width="78" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="222.5" y="236.5" width="77" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
+    <g transform="translate(261 253)">
+      <path d="M-15 -8L0 10L15 -8H8L0 2L-8 -8H-15Z" fill="#41B883"/>
+      <path d="M-8 -8L0 2L8 -8H3L0 -3L-3 -8H-8Z" fill="#E9FBFF"/>
+    </g>
 
-    <rect x="438" y="236" width="132" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="438.5" y="236.5" width="131" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <text x="475" y="258" fill="#E9FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">SaaS</text>
+    <rect x="320" y="236" width="86" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="320.5" y="236.5" width="85" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
+    <g transform="translate(363 252)">
+      <circle cx="-4" cy="-8" r="4.5" fill="#F24E1E"/>
+      <circle cx="4" cy="-8" r="4.5" fill="#FF7262"/>
+      <circle cx="-4" cy="0" r="4.5" fill="#A259FF"/>
+      <circle cx="4" cy="0" r="4.5" fill="#1ABCFE"/>
+      <path d="M-4 4.5C-6.485 4.5 -8.5 6.515 -8.5 9C-8.5 11.485 -6.485 13.5 -4 13.5C-1.515 13.5 0.5 11.485 0.5 9V4.5H-4Z" fill="#0ACF83"/>
+    </g>
   </g>
 </svg>
