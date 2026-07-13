@@ -75,6 +75,10 @@ Building SaaS products, full stack applications, and internal tools with a focus
 </p>
 
 <p>
+  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/main/metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
+</p>
+
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph.svg" />

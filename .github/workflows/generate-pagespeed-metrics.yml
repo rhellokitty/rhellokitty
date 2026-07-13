@@ -1,0 +1,29 @@
+name: Generate PageSpeed Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  pagespeed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate PageSpeed metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://rzadaffa.netlify.app/
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
