@@ -3,19 +3,19 @@
 <!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX Enjoyer | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
+  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
 </p>
 
 <p align="center">
   <a href="https://github.com/rhellokitty">GitHub</a>
   ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://rzadaffa.netlify.app">Portfolio</a>
   ·
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
   ·
-  <a href="YOUR_TIKTOK_URL">TikTok</a>
+  <a href="www.tiktok.com/@rzadaffa_">TikTok</a>
   ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
 </p>
 
 ## Tech Stack
