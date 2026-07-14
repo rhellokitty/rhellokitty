@@ -67,7 +67,7 @@ Building SaaS products, full stack applications, and internal tools with a focus
 ## GitHub Statistics
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=rhellokitty&hide_border=true&background=00000000&ring=22D3EE&fire=38BDF8&currStreakLabel=E6F7FF&sideLabels=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=64748B" alt="GitHub contribution streak" width="100%" />
+  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
 </p>
 
 <p>
