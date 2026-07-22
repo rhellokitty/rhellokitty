@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Puzzle Bobble Contribution Graph
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: rhellokitty
-          games: "pacman"
+          games: "puzzle-bobble"
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

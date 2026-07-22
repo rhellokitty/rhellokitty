@@ -83,8 +83,8 @@ Building SaaS products, full stack applications, and internal tools with a focus
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/pacman-contribution-graph-dark.svg" alt="Pacman-style contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
   </picture>
 </p>
