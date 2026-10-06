@@ -2,8 +2,8 @@ name: Daily Keepalive Commit
 
 on:
   schedule:
-    # 00:10 Asia/Bangkok (UTC+7)
-    - cron: "10 17 * * *"
+    # 12:40 Asia/Bangkok (UTC+7)
+    - cron: "40 5 * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,4 +29,6 @@ jobs:
           git add .github/daily-activity.md
           git diff --cached --quiet || git commit -m "chore: daily activity update"
           git push
+
+
 
