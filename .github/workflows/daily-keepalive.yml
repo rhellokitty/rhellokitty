@@ -1,0 +1,32 @@
+name: Daily Keepalive Commit
+
+on:
+  schedule:
+    # 00:10 Asia/Bangkok (UTC+7)
+    - cron: "10 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update daily activity marker
+        run: |
+          mkdir -p .github
+          echo "Last automated activity: $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > .github/daily-activity.md
+
+      - name: Commit daily activity marker
+        run: |
+          git config user.name "rhellokitty"
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          git add .github/daily-activity.md
+          git diff --cached --quiet || git commit -m "chore: daily activity update"
+          git push
+
